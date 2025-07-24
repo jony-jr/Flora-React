@@ -1,0 +1,25 @@
+.active {
+  color: #af3e3e !important;
+}
+nav img {
+  width: 150px;
+}
+nav {
+  background-color: #eda8a3;
+  color: white;
+  transition: 0.5s padding;
+}
+
+nav .navbar-collapse a {
+  text-align: center;
+  font-size: 1.2rem;
+  color: whitesmoke;
+  font-weight: 700;
+}
+nav .navbar-collapse a:hover {
+  color: #af3e3ea9;
+}
+
+nav .navbar-collapse li {
+  margin-inline: 0.5rem;
+}

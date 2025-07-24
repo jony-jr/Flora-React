@@ -1,0 +1,43 @@
+@import url(../Home/Home.css);
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD:wght@100..400&display=swap");
+
+.about {
+  background-color: #af3e3e20;
+}
+.about h2 {
+  font-family: "Playwrite AU QLD", cursive;
+  font-size: 2.5rem;
+  color: #af3e3e;
+  user-select: none;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.about i {
+  color: #ce362b;
+  font-size: 1.25rem;
+}
+.about h3 {
+  font-family: "Winky Rough", sans-serif;
+  user-select: none;
+    color: #4f1e1ed0;
+
+}
+.about ul {
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+}
+.about ul li {
+  display: flex;
+  justify-content: center;
+  text-align: start;
+  user-select: none;
+  font-size: 1.3rem;
+}
+.about ul li p {
+  margin-bottom: 0;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.675);
+}

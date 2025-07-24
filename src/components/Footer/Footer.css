@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+AU+QLD:wght@100..400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap");
+footer section figure img {
+  width: 300px;
+}
+footer figcaption {
+  color: #4f1e1e;
+}
+.footer-sec-two {
+  background-color: #eda8a3;
+}
+footer h4 {
+  color: #f44336;
+  font-family: "Playwrite AU QLD", cursive;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+footer ul li::before {
+  content: ">";
+  color: #eda8a3;
+  margin-right: 5px;
+}
+footer ul li {
+  list-style: none;
+  margin-block: 5px;
+  border-bottom: #eda8a3 0.5px solid;
+  padding: 2px;
+  user-select: none;
+  font-family: "Winky Rough", sans-serif;
+  color: #4f1e1e;
+}
+footer ul {
+  padding-left: 0;
+}
+footer .footer-sec-one p {
+  font-family: "Winky Rough", sans-serif;
+  color: #4f1e1e;
+  user-select: none;
+}
+footer .footer-sec-two i {
+  font-size: 1.5rem;
+  color: #AF3E3E;
+}
+footer .footer-sec-two i:hover{
+  color: #4f1e1e;
+}

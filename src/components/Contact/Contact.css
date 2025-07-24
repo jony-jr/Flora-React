@@ -1,0 +1,17 @@
+
+.contact  .form-control:focus {
+    color: var(--bs-body-color);
+    background-color: var(--bs-body-bg);
+    border-color: transparent;
+    outline: 0;
+    box-shadow: 0 0 0 2px #eda8a3;
+}
+
+.contact .form-floating>label {
+    color: #af3e3e;
+}
+
+.contact .form-control {
+    background-color: #eecaca50;
+    border: transparent;
+}
