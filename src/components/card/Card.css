@@ -6,3 +6,17 @@
 .modal-backdrop {
     background-color: #693636a9;
 }
+.card-title{
+    color: #4f1e1e !important; 
+}
+.card-text{
+    font-family: "Playwrite AU QLD", cursive;
+    font-size: .8rem;
+}
+.card{
+    filter: blur(1px);
+    transition: all .3s;
+}
+.card:hover{
+    filter: blur(0px);
+}

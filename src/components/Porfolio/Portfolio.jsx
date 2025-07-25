@@ -36,7 +36,7 @@ export default function Portfolio() {
       {
         id:5,
         cardImg: binkTulip,
-        cardName: 'Binl Tulips',
+        cardName: 'Bink Tulips',
         cardPrice: 70,
       },
       {
