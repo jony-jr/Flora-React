@@ -10,7 +10,7 @@ export default function Footer() {
               <div className="col-md-4">
                 <div className="">
                   <h4>About Us</h4>
-                  <p>We are passionate about flowers and providing the best quality,Your one-stop shop for beautiful flowers.</p>
+                  <p>We are passionate about flowers and providing the best quality, Your one-stop shop for beautiful flowers.</p>
                 </div>
               </div>
               <div className="col-md-4">
